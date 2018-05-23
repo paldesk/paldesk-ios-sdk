@@ -1,0 +1,11 @@
+framework module Paldesk {
+  umbrella header "Paldesk.h"
+
+  export *
+  module * { export * }
+}
+
+module Paldesk.Swift {
+    header "Paldesk-Swift.h"
+    requires objc
+}
