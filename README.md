@@ -6,7 +6,7 @@
 Currently only Carthage is supported.
 Add ```github "paldesk/paldesk-ios-sdk"``` to your Cartfile and run ```carthage update --platform ios```
 
-Drag the precompiled Paldesk.framework form *Carthage/Checkouts/paldesk-ios-demo/Paldesk.framework* and other frameworks (ReSwift, SocketIO, Starscream, Kingfisher and Alamofire from *Carthage/Build*) to Embedded Binaries.
+Drag the precompiled Paldesk.framework form *Carthage/Checkouts/paldesk-ios-sdk/Paldesk.framework* and other frameworks (ReSwift, SocketIO, Starscream, Kingfisher and Alamofire from *Carthage/Build*) to Embedded Binaries.
 
 Add new Run Script phase in Build Phases and add:
 ```
@@ -16,12 +16,11 @@ Add new Run Script phase in Build Phases and add:
 Input files:
 ```
 $(SRCROOT)/Carthage/Build/iOS/Kingfisher.framework
-$(SRCROOT)/Carthage/Build/iOS/ReSwit.framework
+$(SRCROOT)/Carthage/Build/iOS/ReSwift.framework
 $(SRCROOT)/Carthage/Build/iOS/Alamofire.framework
 $(SRCROOT)/Carthage/Build/iOS/SocketIO.framework
 $(SRCROOT)/Carthage/Build/iOS/Starscream.framework
-$(SRCROOT)/Carthage/Build/Checkouts/paldesk-ios-demo/Paldesk.framework
-
+$(SRCROOT)/Carthage/Checkouts/paldesk-ios-sdk/Paldesk.framework
 ```
 Output files:
 ```

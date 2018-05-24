@@ -1,0 +1,3 @@
+By downloading or accessing this software, You agree to the Paldesk Terms of service (https://www.paldesk.com/terms-of-service/) and Terms of Use (https://www.paldesk.com/terms-of-use/) and acknowledge that such terms govern Your use of and access to the software.
+
+If You make any Contributions (defined below) to the Paldesk Mobile SDK, You hereby grant Paldesk a royalty-free, worldwide, transferable, sub-licensable, irrevocable and perpetual license to incorporate into the Service or the Paldesk API or otherwise use and commercially exploit any Contributions. “Contribution” shall mean any work of authorship, including any modifications or additions to the Mobile SDK or derivative works thereof, that is submitted to Paldesk by You.
