@@ -20,7 +20,7 @@ $(SRCROOT)/Carthage/Build/iOS/ReSwit.framework
 $(SRCROOT)/Carthage/Build/iOS/Alamofire.framework
 $(SRCROOT)/Carthage/Build/iOS/SocketIO.framework
 $(SRCROOT)/Carthage/Build/iOS/Starscream.framework
-$(SRCROOT)/Carthage/Build/Checkouts/paldesk-ios-demo/Paldesk.framework
+$(SRCROOT)/Carthage/Build/Checkouts/paldesk-ios-sdk/Paldesk.framework
 
 ```
 Output files:
