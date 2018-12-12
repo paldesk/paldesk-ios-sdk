@@ -191,6 +191,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC7Paldesk20PDBaseViewController")
 @interface PDBaseViewController : UIViewController
+- (void)viewWillAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -274,6 +276,8 @@ SWIFT_CLASS("_TtC7Paldesk10PaldeskSDK")
 + (void)startConversationWithViewController:(UIViewController * _Nonnull)viewController;
 + (void)clear;
 @end
+
+
 
 
 
