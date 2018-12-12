@@ -105,7 +105,7 @@ Depending on your Client authentification type settings from Webapp -> Administr
         "firstName": "First Name",
         "lastName": "Last Name"
     ]
-    PaldeskSDK.createClient(client: client)
+    PaldeskSDK.createClient(params: params)
 ```
 
 ```objc
