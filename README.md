@@ -1,6 +1,11 @@
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 # Paldesk
+
+## Requirements
+
+Paldesk SDK supports iOS 9+ and Swift 4.2.
+
 ## Installing
 
 Currently only Carthage is supported.
