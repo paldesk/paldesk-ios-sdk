@@ -1,0 +1,364 @@
+{
+    "labels": [
+        {
+          "languageCode": "sq",
+          "firstName": "Emri",
+          "lastName": "Mbiemri",
+          "email": "E-mail",
+          "submit": "paraqes",
+          "enterMessage": "Shkruani mesazhin"
+        },
+        {
+          "languageCode": "hy",
+          "firstName": "Անուն",
+          "lastName": "Ազգանուն",
+          "email": "E-mail",
+          "submit": "Ներկայացնել",
+          "enterMessage": "Մուտքագրեք հաղորդագրությունը"
+        },
+        {
+          "languageCode": "az",
+          "firstName": "ad",
+          "lastName": "Soyad",
+          "email": "E-mail",
+          "submit": "təqdim",
+          "enterMessage": "Mesajınızı daxil edin"
+        },
+        {
+          "languageCode": "be",
+          "firstName": "Імя",
+          "lastName": "Прозвішча",
+          "email": "электронная пошта",
+          "submit": "прадставіць",
+          "enterMessage": "Калі ласка, увядзіце паведамленне"
+        },
+        {
+          "languageCode": "bg",
+          "firstName": "Първо име",
+          "lastName": "Фамилия",
+          "email": "Електронна поща",
+          "submit": "Изпращане",
+          "enterMessage": "Въведете съобщение"
+        },
+        {
+          "languageCode": "bs",
+          "firstName": "Ime",
+          "lastName": "Prezime",
+          "email": "E-mail",
+          "submit": "podnijeti",
+          "enterMessage": "Unesite poruku"
+        },
+        {
+          "languageCode": "hr",
+          "firstName": "Ime",
+          "lastName": "Prezime",
+          "email": "E-mail",
+          "submit": "podnijeti",
+          "enterMessage": "Unesite poruku"
+        },
+        {
+          "languageCode": "cs",
+          "firstName": "Jméno",
+          "lastName": "Příjmení",
+          "email": "E-mailem",
+          "submit": "Předložit",
+          "enterMessage": "Napište zprávu"
+        },
+        {
+          "languageCode": "zh-CN",
+          "firstName": "名字",
+          "lastName": "姓",
+          "email": "电子邮件",
+          "submit": "提交",
+          "enterMessage": "输入消息"
+        },
+        {
+          "languageCode": "zh-TW",
+          "firstName": "名字",
+          "lastName": "姓",
+          "email": "電子郵件",
+          "submit": "提交",
+          "enterMessage": "輸入消息"
+        },
+        {
+          "languageCode": "da",
+          "firstName": "Fornavn",
+          "lastName": "Efternavn",
+          "email": "E-mail",
+          "submit": "Indsend",
+          "enterMessage": "Indtast besked"
+        },
+        {
+          "languageCode": "nl",
+          "firstName": "Voornaam",
+          "lastName": "Achternaam",
+          "email": "E-mail",
+          "submit": "voorleggen",
+          "enterMessage": "Invoer bericht"
+        },
+        {
+          "languageCode": "en",
+          "firstName": "First name",
+          "lastName": "Last name",
+          "email": "E-mail",
+          "submit": "Submit",
+          "enterMessage": "Enter message"
+        },
+        {
+          "languageCode": "et",
+          "firstName": "Eesnimi",
+          "lastName": "Perekonnanimi",
+          "email": "E-mail",
+          "submit": "Esita",
+          "enterMessage": "Sisestage sõnum"
+        },
+        {
+          "languageCode": "fi",
+          "firstName": "Etunimi",
+          "lastName": "Sukunimi",
+          "email": "Sähköposti",
+          "submit": "Lähetä",
+          "enterMessage": "kirjoita viestin"
+        },
+        {
+          "languageCode": "fr",
+          "firstName": "Prénom",
+          "lastName": "Nom de famille",
+          "email": "Email",
+          "submit": "Soumettre",
+          "enterMessage": "Entrez un message"
+        },
+        {
+          "languageCode": "de",
+          "firstName": "Vorname",
+          "lastName": "Nachname",
+          "email": "Email",
+          "submit": "einreichen",
+          "enterMessage": "Geben Sie Nachricht"
+        },
+        {
+          "languageCode": "el",
+          "firstName": "Ονομα",
+          "lastName": "Επίθετο",
+          "email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+          "submit": "υποβάλλουν",
+          "enterMessage": "Πληκτρολογήστε το μήνυμα"
+        },
+        {
+          "languageCode": "he",
+          "firstName": "שם פרטי",
+          "lastName": "שם משפחה",
+          "email": "E-mail",
+          "submit": "שלח",
+          "enterMessage": "זן הודעה"
+        },
+        {
+          "languageCode": "hu",
+          "firstName": "Keresztnév",
+          "lastName": "Vezetéknév",
+          "email": "Email",
+          "submit": "beküldése",
+          "enterMessage": "üzenet megadása"
+        },
+        {
+          "languageCode": "is",
+          "firstName": "Fyrsta nafn",
+          "lastName": "Eftirnafn",
+          "email": "E-mail",
+          "submit": "Senda inn",
+          "enterMessage": "sláðu inn skilaboð"
+        },
+        {
+          "languageCode": "ga",
+          "firstName": "Ainm",
+          "lastName": "sloinne",
+          "email": "Ríomhphost",
+          "submit": "Cuir",
+          "enterMessage": "Iontráil teachtaireacht"
+        },
+        {
+          "languageCode": "it",
+          "firstName": "nome di battesimo",
+          "lastName": "Cognome",
+          "email": "E-mail",
+          "submit": "Sottoscrivi",
+          "enterMessage": "Inserisci messaggio"
+        },
+        {
+          "languageCode": "ja",
+          "firstName": "ファーストネーム",
+          "lastName": "苗字",
+          "email": "Eメール",
+          "submit": "提出します",
+          "enterMessage": "メッセージを入力します。"
+        },
+        {
+          "languageCode": "kk",
+          "firstName": "Аты",
+          "lastName": "Тек",
+          "email": "Электрондық пошта",
+          "submit": "Жіберу",
+          "enterMessage": "хабарды енгізіңіз"
+        },
+        {
+          "languageCode": "ko",
+          "firstName": "이름",
+          "lastName": "성",
+          "email": "이메일",
+          "submit": "제출",
+          "enterMessage": "메시지를 입력"
+        },
+        {
+          "languageCode": "lv",
+          "firstName": "Vārds",
+          "lastName": "Uzvārds",
+          "email": "E-pasts",
+          "submit": "Iesniegt",
+          "enterMessage": "Ievadiet ziņu"
+        },
+        {
+          "languageCode": "lt",
+          "firstName": "Pirmas vardas",
+          "lastName": "Pavardė",
+          "email": "Elektroninis paštas",
+          "submit": "Pateikti",
+          "enterMessage": "Įveskite pranešimą"
+        },
+        {
+          "languageCode": "mk",
+          "firstName": "Име",
+          "lastName": "Презиме",
+          "email": "Е-пошта",
+          "submit": "достават",
+          "enterMessage": "внесете ја пораката"
+        },
+        {
+          "languageCode": "no",
+          "firstName": "Fornavn",
+          "lastName": "Etternavn",
+          "email": "E-post",
+          "submit": "Sende inn",
+          "enterMessage": "skriv inn melding"
+        },
+        {
+          "languageCode": "pl",
+          "firstName": "Imię",
+          "lastName": "Nazwisko",
+          "email": "E-mail",
+          "submit": "Zatwierdź",
+          "enterMessage": "Wpisz wiadomość"
+        },
+        {
+          "languageCode": "pt",
+          "firstName": "Primeiro nome",
+          "lastName": "Último nome",
+          "email": "O email",
+          "submit": "Enviar",
+          "enterMessage": "Digite mensagem"
+        },
+        {
+          "languageCode": "pa",
+          "firstName": "ਪਹਿਲਾ ਨਾਂ",
+          "lastName": "ਆਖੀਰਲਾ ਨਾਂਮ",
+          "email": "ਈ - ਮੇਲ",
+          "submit": "ਪੇਸ਼ ਕਰੋ",
+          "enterMessage": "ਸੁਨੇਹੇ ਨੂੰ ਦਿਓ"
+        },
+        {
+          "languageCode": "ro",
+          "firstName": "Nume",
+          "lastName": "Numele de familie",
+          "email": "E-mail",
+          "submit": "A depune",
+          "enterMessage": "introduceţi mesajul"
+        },
+        {
+          "languageCode": "ru",
+          "firstName": "Имя",
+          "lastName": "Фамилия",
+          "email": "Эл. почта",
+          "submit": "Отправить",
+          "enterMessage": "Введите сообщение"
+        },
+        {
+          "languageCode": "sr",
+          "firstName": "Име",
+          "lastName": "Презиме",
+          "email": "Е-пошта",
+          "submit": "прихвати",
+          "enterMessage": "Унесите поруку"
+        },
+        {
+          "languageCode": "sk",
+          "firstName": "Krstné meno",
+          "lastName": "Priezvisko",
+          "email": "E-mail",
+          "submit": "Predložiť",
+          "enterMessage": "Napíšte správu"
+        },
+        {
+          "languageCode": "sl",
+          "firstName": "Ime",
+          "lastName": "Priimek",
+          "email": "E-naslov",
+          "submit": "predloži",
+          "enterMessage": "Vnesite sporočilo"
+        },
+        {
+          "languageCode": "es",
+          "firstName": "Nombre de pila",
+          "lastName": "Apellido",
+          "email": "Email",
+          "submit": "Enviar",
+          "enterMessage": "Entre su mensaje"
+        },
+        {
+          "languageCode": "sv",
+          "firstName": "Förnamn",
+          "lastName": "Efternamn",
+          "email": "E-post",
+          "submit": "Lämna",
+          "enterMessage": "Ange meddelande"
+        },
+        {
+          "languageCode": "uk",
+          "firstName": "Ім'я",
+          "lastName": "Прізвище",
+          "email": "Електронна пошта",
+          "submit": "уявити",
+          "enterMessage": "Введіть повідомлення"
+        },
+        {
+          "languageCode": "th",
+          "firstName": "ชื่อจริง",
+          "lastName": "นามสกุล",
+          "email": "E-mail",
+          "submit": "เสนอ",
+          "enterMessage": "ป้อนข้อความ"
+        },
+        {
+          "languageCode": "tr",
+          "firstName": "İsim",
+          "lastName": "Soyadı",
+          "email": "E-mail",
+          "submit": "Gönder",
+          "enterMessage": "mesajını girin"
+        },
+        {
+          "languageCode": "vi",
+          "firstName": "Tên đầu tiên",
+          "lastName": "tên họ",
+          "email": "E-mail",
+          "submit": "Gửi đi",
+          "enterMessage": "Nhập tin nhắn"
+        },
+        {
+          "languageCode": "yi",
+          "firstName": "ערשטע נאמען",
+          "lastName": "לעצטע נאמען",
+          "email": "E- פּאָסט",
+          "submit": "פאָרלייגן",
+          "enterMessage": "אַרייַן אָנזאָג"
+        }
+      ]
+}

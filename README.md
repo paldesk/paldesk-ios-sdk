@@ -4,7 +4,7 @@
 
 ## Requirements
 
-Paldesk SDK supports iOS 9+ and Swift 4.2.
+Paldesk SDK supports iOS 10+ and Swift 5.
 
 ## Installing
 
