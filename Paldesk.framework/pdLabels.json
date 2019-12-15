@@ -1,364 +1,1338 @@
 {
-    "labels": [
-        {
-          "languageCode": "sq",
-          "firstName": "Emri",
-          "lastName": "Mbiemri",
-          "email": "E-mail",
-          "submit": "paraqes",
-          "enterMessage": "Shkruani mesazhin"
-        },
-        {
-          "languageCode": "hy",
-          "firstName": "Անուն",
-          "lastName": "Ազգանուն",
-          "email": "E-mail",
-          "submit": "Ներկայացնել",
-          "enterMessage": "Մուտքագրեք հաղորդագրությունը"
-        },
-        {
-          "languageCode": "az",
-          "firstName": "ad",
-          "lastName": "Soyad",
-          "email": "E-mail",
-          "submit": "təqdim",
-          "enterMessage": "Mesajınızı daxil edin"
-        },
-        {
-          "languageCode": "be",
-          "firstName": "Імя",
-          "lastName": "Прозвішча",
-          "email": "электронная пошта",
-          "submit": "прадставіць",
-          "enterMessage": "Калі ласка, увядзіце паведамленне"
-        },
-        {
-          "languageCode": "bg",
-          "firstName": "Първо име",
-          "lastName": "Фамилия",
-          "email": "Електронна поща",
-          "submit": "Изпращане",
-          "enterMessage": "Въведете съобщение"
-        },
-        {
-          "languageCode": "bs",
-          "firstName": "Ime",
-          "lastName": "Prezime",
-          "email": "E-mail",
-          "submit": "podnijeti",
-          "enterMessage": "Unesite poruku"
-        },
-        {
-          "languageCode": "hr",
-          "firstName": "Ime",
-          "lastName": "Prezime",
-          "email": "E-mail",
-          "submit": "podnijeti",
-          "enterMessage": "Unesite poruku"
-        },
-        {
-          "languageCode": "cs",
-          "firstName": "Jméno",
-          "lastName": "Příjmení",
-          "email": "E-mailem",
-          "submit": "Předložit",
-          "enterMessage": "Napište zprávu"
-        },
-        {
-          "languageCode": "zh-CN",
-          "firstName": "名字",
-          "lastName": "姓",
-          "email": "电子邮件",
-          "submit": "提交",
-          "enterMessage": "输入消息"
-        },
-        {
-          "languageCode": "zh-TW",
-          "firstName": "名字",
-          "lastName": "姓",
-          "email": "電子郵件",
-          "submit": "提交",
-          "enterMessage": "輸入消息"
-        },
-        {
-          "languageCode": "da",
-          "firstName": "Fornavn",
-          "lastName": "Efternavn",
-          "email": "E-mail",
-          "submit": "Indsend",
-          "enterMessage": "Indtast besked"
-        },
-        {
-          "languageCode": "nl",
-          "firstName": "Voornaam",
-          "lastName": "Achternaam",
-          "email": "E-mail",
-          "submit": "voorleggen",
-          "enterMessage": "Invoer bericht"
-        },
-        {
-          "languageCode": "en",
-          "firstName": "First name",
-          "lastName": "Last name",
-          "email": "E-mail",
-          "submit": "Submit",
-          "enterMessage": "Enter message"
-        },
-        {
-          "languageCode": "et",
-          "firstName": "Eesnimi",
-          "lastName": "Perekonnanimi",
-          "email": "E-mail",
-          "submit": "Esita",
-          "enterMessage": "Sisestage sõnum"
-        },
-        {
-          "languageCode": "fi",
-          "firstName": "Etunimi",
-          "lastName": "Sukunimi",
-          "email": "Sähköposti",
-          "submit": "Lähetä",
-          "enterMessage": "kirjoita viestin"
-        },
-        {
-          "languageCode": "fr",
-          "firstName": "Prénom",
-          "lastName": "Nom de famille",
-          "email": "Email",
-          "submit": "Soumettre",
-          "enterMessage": "Entrez un message"
-        },
-        {
-          "languageCode": "de",
-          "firstName": "Vorname",
-          "lastName": "Nachname",
-          "email": "Email",
-          "submit": "einreichen",
-          "enterMessage": "Geben Sie Nachricht"
-        },
-        {
-          "languageCode": "el",
-          "firstName": "Ονομα",
-          "lastName": "Επίθετο",
-          "email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
-          "submit": "υποβάλλουν",
-          "enterMessage": "Πληκτρολογήστε το μήνυμα"
-        },
-        {
-          "languageCode": "he",
-          "firstName": "שם פרטי",
-          "lastName": "שם משפחה",
-          "email": "E-mail",
-          "submit": "שלח",
-          "enterMessage": "זן הודעה"
-        },
-        {
-          "languageCode": "hu",
-          "firstName": "Keresztnév",
-          "lastName": "Vezetéknév",
-          "email": "Email",
-          "submit": "beküldése",
-          "enterMessage": "üzenet megadása"
-        },
-        {
-          "languageCode": "is",
-          "firstName": "Fyrsta nafn",
-          "lastName": "Eftirnafn",
-          "email": "E-mail",
-          "submit": "Senda inn",
-          "enterMessage": "sláðu inn skilaboð"
-        },
-        {
-          "languageCode": "ga",
-          "firstName": "Ainm",
-          "lastName": "sloinne",
-          "email": "Ríomhphost",
-          "submit": "Cuir",
-          "enterMessage": "Iontráil teachtaireacht"
-        },
-        {
-          "languageCode": "it",
-          "firstName": "nome di battesimo",
-          "lastName": "Cognome",
-          "email": "E-mail",
-          "submit": "Sottoscrivi",
-          "enterMessage": "Inserisci messaggio"
-        },
-        {
-          "languageCode": "ja",
-          "firstName": "ファーストネーム",
-          "lastName": "苗字",
-          "email": "Eメール",
-          "submit": "提出します",
-          "enterMessage": "メッセージを入力します。"
-        },
-        {
-          "languageCode": "kk",
-          "firstName": "Аты",
-          "lastName": "Тек",
-          "email": "Электрондық пошта",
-          "submit": "Жіберу",
-          "enterMessage": "хабарды енгізіңіз"
-        },
-        {
-          "languageCode": "ko",
-          "firstName": "이름",
-          "lastName": "성",
-          "email": "이메일",
-          "submit": "제출",
-          "enterMessage": "메시지를 입력"
-        },
-        {
-          "languageCode": "lv",
-          "firstName": "Vārds",
-          "lastName": "Uzvārds",
-          "email": "E-pasts",
-          "submit": "Iesniegt",
-          "enterMessage": "Ievadiet ziņu"
-        },
-        {
-          "languageCode": "lt",
-          "firstName": "Pirmas vardas",
-          "lastName": "Pavardė",
-          "email": "Elektroninis paštas",
-          "submit": "Pateikti",
-          "enterMessage": "Įveskite pranešimą"
-        },
-        {
-          "languageCode": "mk",
-          "firstName": "Име",
-          "lastName": "Презиме",
-          "email": "Е-пошта",
-          "submit": "достават",
-          "enterMessage": "внесете ја пораката"
-        },
-        {
-          "languageCode": "no",
-          "firstName": "Fornavn",
-          "lastName": "Etternavn",
-          "email": "E-post",
-          "submit": "Sende inn",
-          "enterMessage": "skriv inn melding"
-        },
-        {
-          "languageCode": "pl",
-          "firstName": "Imię",
-          "lastName": "Nazwisko",
-          "email": "E-mail",
-          "submit": "Zatwierdź",
-          "enterMessage": "Wpisz wiadomość"
-        },
-        {
-          "languageCode": "pt",
-          "firstName": "Primeiro nome",
-          "lastName": "Último nome",
-          "email": "O email",
-          "submit": "Enviar",
-          "enterMessage": "Digite mensagem"
-        },
-        {
-          "languageCode": "pa",
-          "firstName": "ਪਹਿਲਾ ਨਾਂ",
-          "lastName": "ਆਖੀਰਲਾ ਨਾਂਮ",
-          "email": "ਈ - ਮੇਲ",
-          "submit": "ਪੇਸ਼ ਕਰੋ",
-          "enterMessage": "ਸੁਨੇਹੇ ਨੂੰ ਦਿਓ"
-        },
-        {
-          "languageCode": "ro",
-          "firstName": "Nume",
-          "lastName": "Numele de familie",
-          "email": "E-mail",
-          "submit": "A depune",
-          "enterMessage": "introduceţi mesajul"
-        },
-        {
-          "languageCode": "ru",
-          "firstName": "Имя",
-          "lastName": "Фамилия",
-          "email": "Эл. почта",
-          "submit": "Отправить",
-          "enterMessage": "Введите сообщение"
-        },
-        {
-          "languageCode": "sr",
-          "firstName": "Име",
-          "lastName": "Презиме",
-          "email": "Е-пошта",
-          "submit": "прихвати",
-          "enterMessage": "Унесите поруку"
-        },
-        {
-          "languageCode": "sk",
-          "firstName": "Krstné meno",
-          "lastName": "Priezvisko",
-          "email": "E-mail",
-          "submit": "Predložiť",
-          "enterMessage": "Napíšte správu"
-        },
-        {
-          "languageCode": "sl",
-          "firstName": "Ime",
-          "lastName": "Priimek",
-          "email": "E-naslov",
-          "submit": "predloži",
-          "enterMessage": "Vnesite sporočilo"
-        },
-        {
-          "languageCode": "es",
-          "firstName": "Nombre de pila",
-          "lastName": "Apellido",
-          "email": "Email",
-          "submit": "Enviar",
-          "enterMessage": "Entre su mensaje"
-        },
-        {
-          "languageCode": "sv",
-          "firstName": "Förnamn",
-          "lastName": "Efternamn",
-          "email": "E-post",
-          "submit": "Lämna",
-          "enterMessage": "Ange meddelande"
-        },
-        {
-          "languageCode": "uk",
-          "firstName": "Ім'я",
-          "lastName": "Прізвище",
-          "email": "Електронна пошта",
-          "submit": "уявити",
-          "enterMessage": "Введіть повідомлення"
-        },
-        {
-          "languageCode": "th",
-          "firstName": "ชื่อจริง",
-          "lastName": "นามสกุล",
-          "email": "E-mail",
-          "submit": "เสนอ",
-          "enterMessage": "ป้อนข้อความ"
-        },
-        {
-          "languageCode": "tr",
-          "firstName": "İsim",
-          "lastName": "Soyadı",
-          "email": "E-mail",
-          "submit": "Gönder",
-          "enterMessage": "mesajını girin"
-        },
-        {
-          "languageCode": "vi",
-          "firstName": "Tên đầu tiên",
-          "lastName": "tên họ",
-          "email": "E-mail",
-          "submit": "Gửi đi",
-          "enterMessage": "Nhập tin nhắn"
-        },
-        {
-          "languageCode": "yi",
-          "firstName": "ערשטע נאמען",
-          "lastName": "לעצטע נאמען",
-          "email": "E- פּאָסט",
-          "submit": "פאָרלייגן",
-          "enterMessage": "אַרייַן אָנזאָג"
-        }
-      ]
+   "labels":[
+      {
+         "languageCode":"sq",
+         "firstName":"Emri",
+         "lastName":"Mbiemri",
+         "email":"E-mail",
+         "submit":"paraqes",
+         "enterMessage":"Shkruani mesazhin",
+         "anonymousUser":"Vazhdojë si anonim",
+         "transcript":{
+            "title":"Dërgo transkripti",
+            "description":"Transkript do të dërgohet pas biseda është e përfunduar",
+            "email":"E-mail",
+            "cancel":"anuloj",
+            "confirm":"Confirm"
+         },
+         "rating":{
+            "title":"shkalla bisedë",
+            "description":"Vlerësoni bisedën me agjentin",
+            "comment":"Rating koment",
+            "cancel":"anuloj",
+            "confirm":"Confirm"
+         },
+         "clickToReopen":"Klikoni për bisedë të hapur e ri",
+         "privacy":{
+            "consentPt1":"Unë kam lexuar dhe pranoni",
+            "consentPt2":"kushtet e shërbimit",
+            "agree":"unë pajtohem"
+         }
+      },
+      {
+         "languageCode":"hy",
+         "firstName":"Անուն",
+         "lastName":"Ազգանուն",
+         "email":"E-mail",
+         "submit":"Ներկայացնել",
+         "enterMessage":"Մուտքագրեք հաղորդագրությունը",
+         "anonymousUser":"Շարունակել որպես անանուն",
+         "transcript":{
+            "title":"ուղարկել տառադարձումը",
+            "description":"\"Սղագրությունը կուղարկվի բանից հետո",
+            "email":" երբ խոսակցությունը ավարտված է\"",
+            "cancel":"E-mail",
+            "confirm":"վերացնել"
+         },
+         "rating":{
+            "title":"Հաստատեք",
+            "description":"Rate խոսակցությունը",
+            "comment":"Գնահատեք հետ զրույցում գործակալի",
+            "cancel":"Rating մեկնաբանություններ",
+            "confirm":"վերացնել"
+         },
+         "clickToReopen":"Սեղմեք բաց նոր զրույցի",
+         "privacy":{
+            "consentPt1":"Հաստատեք",
+            "consentPt2":"Ես կարդացել եւ ընդունում է",
+            "agree":"Ծառայությունների մատուցման պայմաններ"
+         }
+      },
+      {
+         "languageCode":"ar",
+         "firstName":"الاسم الاول",
+         "lastName":"الكنية",
+         "email":"البريد الإلكتروني",
+         "submit":"خضع",
+         "enterMessage":"أدخل رسالة",
+         "anonymousUser":"مستخدم مجهول",
+         "transcript":{
+            "title":"إرسال نسخة",
+            "description":"سيتم إرسال نسخة بعد المحادثة النهائية",
+            "email":"البريد الإلكتروني",
+            "cancel":"إلغاء",
+            "confirm":"تؤكد"
+         },
+         "rating":{
+            "title":"معدل محادثة",
+            "description":"معدل محادثة مع وكيل",
+            "comment":"تقييم تعليق",
+            "cancel":"إلغاء",
+            "confirm":"تؤكد"
+         },
+         "clickToReopen":"انقر لمحادثة جديدة مفتوحة",
+         "privacy":{
+            "consentPt1":"قرأت وأقبل ب",
+            "consentPt2":"شروط الخدمة",
+            "agree":"أنا موافق"
+         }
+      },
+      {
+         "languageCode":"az",
+         "firstName":"Ad",
+         "lastName":"Soyad",
+         "email":"E-mail",
+         "submit":"təqdim",
+         "enterMessage":"Mesajınızı daxil edin",
+         "anonymousUser":"Kimi anonim davam",
+         "transcript":{
+            "title":"Send transcript",
+            "description":"söhbət başa sonra Transcript göndəriləcək",
+            "email":"E-mail",
+            "cancel":"ləğv etmək",
+            "confirm":"Confirm"
+         },
+         "rating":{
+            "title":"Rate söhbət",
+            "description":"agent ilə söhbət Rate",
+            "comment":"Rating comment",
+            "cancel":"ləğv etmək",
+            "confirm":"Confirm"
+         },
+         "clickToReopen":"açıq yeni söhbət üçün Basın",
+         "privacy":{
+            "consentPt1":"Mən oxumaq və qəbul var",
+            "consentPt2":"xidmət Şərtləri",
+            "agree":"razıyam"
+         }
+      },
+      {
+         "languageCode":"be",
+         "firstName":"Імя",
+         "lastName":"Прозвішча",
+         "email":"электронная пошта",
+         "submit":"прадставіць",
+         "enterMessage":"Калі ласка увядзіце паведамленне",
+         "anonymousUser":"працягнуць ананімным",
+         "transcript":{
+            "title":"працягнуць ананімнымі",
+            "description":"адправіць транскрыптаў",
+            "email":"\"Стэнаграма будзе адпраўлены пасля таго",
+            "cancel":" як размова скончаны\"",
+            "confirm":"электронная пошта"
+         },
+         "rating":{
+            "title":"адмяніць",
+            "description":"пацвярджэнне",
+            "comment":"ацаніць размова",
+            "cancel":"Ацаніць размова з агентам",
+            "confirm":"рэйтынг каментара"
+         },
+         "clickToReopen":"працягнуць ананімнымі",
+         "privacy":{
+            "consentPt1":"рэйтынг каментара",
+            "consentPt2":"адмяніць",
+            "agree":"пацвярджэнне"
+         }
+      },
+      {
+         "languageCode":"bg",
+         "firstName":"Първо име",
+         "lastName":"Фамилия",
+         "email":"Електронна поща",
+         "submit":"Изпращане",
+         "enterMessage":"Въведете съобщение",
+         "anonymousUser":"Продължаване като анонимен",
+         "transcript":{
+            "title":"Изпрати препис",
+            "description":"Препис ще бъде изпратено след разговора е завършен",
+            "email":"Електронна поща",
+            "cancel":"Отказ",
+            "confirm":"Потвърждение"
+         },
+         "rating":{
+            "title":"Оцени разговор",
+            "description":"Оцени разговора с агента",
+            "comment":"Рейтинг коментар",
+            "cancel":"Отказ",
+            "confirm":"Потвърждение"
+         },
+         "clickToReopen":"\"Кликнете",
+         "privacy":{
+            "consentPt1":"Потвърждение",
+            "consentPt2":"Прочетох и приемам",
+            "agree":"условия за ползване"
+         }
+      },
+      {
+         "languageCode":"bs",
+         "firstName":"Ime",
+         "lastName":"Prezime",
+         "email":"E-mail",
+         "submit":"Pošalji",
+         "enterMessage":"Unesi poruku",
+         "anonymousUser":"Nastavi kao anonimni",
+         "transcript":{
+            "title":"Pošalji transkript",
+            "description":"Transkript će biti poslan nakon završetka razgovora",
+            "email":"E-mail",
+            "cancel":"Odustani",
+            "confirm":"Potvrdi"
+         },
+         "rating":{
+            "title":"Ocijeni razgovor",
+            "description":"Ocijeni razgovor sa agentom",
+            "comment":"Komentar ocjene",
+            "cancel":"Odustani",
+            "confirm":"Potvrdi"
+         },
+         "clickToReopen":"Klikni za otvaranje novog razgovora",
+         "privacy":{
+            "consentPt1":"Pročitao sam i prihvaćam",
+            "consentPt2":"uslove korištenja",
+            "agree":"slažem se"
+         }
+      },
+      {
+         "languageCode":"hr",
+         "firstName":"Ime",
+         "lastName":"Prezime",
+         "email":"E-mail",
+         "submit":"Pošalji",
+         "enterMessage":"Unesite poruku",
+         "anonymousUser":"Nastavi kao anonimni",
+         "transcript":{
+            "title":"Pošalji prijepis",
+            "description":"Prijepis će biti poslan nakon što je razgovor gotov",
+            "email":"E-mail",
+            "cancel":"Odustani",
+            "confirm":"Potvrdi"
+         },
+         "rating":{
+            "title":"Ocjena razgovora",
+            "description":"Ocijenite razgovor sa agentom",
+            "comment":"Komentar",
+            "cancel":"Odustani",
+            "confirm":"Potvrdi"
+         },
+         "clickToReopen":"Kliknite za otvaranje novih razgovora",
+         "privacy":{
+            "consentPt1":"Pročitao sam i prihvaćam",
+            "consentPt2":"uvjete korištenja usluge",
+            "agree":"Prihvati"
+         }
+      },
+      {
+         "languageCode":"cs",
+         "firstName":"Jméno",
+         "lastName":"Příjmení",
+         "email":"E-mailem",
+         "submit":"Předložit",
+         "enterMessage":"Napište zprávu",
+         "anonymousUser":"Pokračovat v anonymitě",
+         "transcript":{
+            "title":"send přepis",
+            "description":"Přepis bude zaslána po konverzace je hotová",
+            "email":"E-mailem",
+            "cancel":"zrušení",
+            "confirm":"Potvrdit"
+         },
+         "rating":{
+            "title":"míra konverzace",
+            "description":"Hodnotit rozhovor s agentem",
+            "comment":"Rating komentář",
+            "cancel":"zrušení",
+            "confirm":"Potvrdit"
+         },
+         "clickToReopen":"Kliknutím otevřete novou konverzaci",
+         "privacy":{
+            "consentPt1":"Přečetl jsem a přijmout",
+            "consentPt2":"Podmínky služby",
+            "agree":"souhlasím"
+         }
+      },
+      {
+         "languageCode":"zh-CN",
+         "firstName":"名字",
+         "lastName":"姓",
+         "email":"电子邮件",
+         "submit":"提交",
+         "enterMessage":"输入消息",
+         "anonymousUser":"继续为匿名",
+         "transcript":{
+            "title":"发送成绩单",
+            "description":"之后的谈话结束谈话将被发送",
+            "email":"电子邮件",
+            "cancel":"取消",
+            "confirm":"确认"
+         },
+         "rating":{
+            "title":"率转换",
+            "description":"评价与代理对话",
+            "comment":"评分评论",
+            "cancel":"取消",
+            "confirm":"确认"
+         },
+         "clickToReopen":"点击打开新的对话",
+         "privacy":{
+            "consentPt1":"我已阅读并接受",
+            "consentPt2":"服务条款",
+            "agree":"我同意"
+         }
+      },
+      {
+         "languageCode":"zh-TW",
+         "firstName":"名字",
+         "lastName":"姓",
+         "email":"電子郵件",
+         "submit":"提交",
+         "enterMessage":"輸入消息",
+         "anonymousUser":"繼續為匿名",
+         "transcript":{
+            "title":"發送成績單",
+            "description":"之後的談話結束談話將被發送",
+            "email":"電子郵件",
+            "cancel":"取消",
+            "confirm":"確認"
+         },
+         "rating":{
+            "title":"率轉換",
+            "description":"評價與代理對話",
+            "comment":"評分評論",
+            "cancel":"取消",
+            "confirm":"確認"
+         },
+         "clickToReopen":"點擊打開新的對話",
+         "privacy":{
+            "consentPt1":"我已閱讀並接受",
+            "consentPt2":"服務條款",
+            "agree":"我同意"
+         }
+      },
+      {
+         "languageCode":"da",
+         "firstName":"Fornavn",
+         "lastName":"Efternavn",
+         "email":"E-mail",
+         "submit":"Indsend",
+         "enterMessage":"Indtast besked",
+         "anonymousUser":"Fortsæt som anonym",
+         "transcript":{
+            "title":"Send udskrift",
+            "description":"Udskrift vil blive sendt efter samtalen er færdig",
+            "email":"E-mail",
+            "cancel":"Afbestille",
+            "confirm":"Bekræfte"
+         },
+         "rating":{
+            "title":"Bedøm samtale",
+            "description":"Bedøm samtalen med agenten",
+            "comment":"bedømmelse kommentar",
+            "cancel":"Afbestille",
+            "confirm":"Bekræfte"
+         },
+         "clickToReopen":"Klik for at åbne ny samtale",
+         "privacy":{
+            "consentPt1":"Jeg har læst og accepterer den",
+            "consentPt2":"hensyn til service",
+            "agree":"jeg er enig"
+         }
+      },
+      {
+         "languageCode":"nl",
+         "firstName":"Voornaam",
+         "lastName":"Achternaam",
+         "email":"E-mail",
+         "submit":"versturen",
+         "enterMessage":"Invoer bericht",
+         "anonymousUser":"Doorgaan als anonieme",
+         "transcript":{
+            "title":"Send transcript",
+            "description":"Transcript zal worden verzonden nadat het gesprek is beëindigd",
+            "email":"E-mail",
+            "cancel":"Annuleer",
+            "confirm":"Bevestigen"
+         },
+         "rating":{
+            "title":"rate gesprek",
+            "description":"Beoordeel het gesprek met de agent",
+            "comment":"Rating reactie",
+            "cancel":"Annuleer",
+            "confirm":"Bevestigen"
+         },
+         "clickToReopen":"Klik om te openen nieuw gesprek",
+         "privacy":{
+            "consentPt1":"Ik heb gelezen en accepteer de",
+            "consentPt2":"voorwaarden",
+            "agree":"ik ga akkoord"
+         }
+      },
+      {
+         "languageCode":"en",
+         "firstName":"First name",
+         "lastName":"Last name",
+         "email":"E-mail",
+         "submit":"Submit",
+         "enterMessage":"Enter message",
+         "anonymousUser":"Continue as anonymous",
+         "transcript":{
+            "title":"Send transcript",
+            "description":"Transcript will be sent after the conversation is finished",
+            "email":"E-mail",
+            "cancel":"Cancel",
+            "confirm":"Confirm"
+         },
+         "rating":{
+            "title":"Rate conversation",
+            "description":"Rate the conversation with the agent",
+            "comment":"Rating comment",
+            "cancel":"Cancel",
+            "confirm":"Confirm"
+         },
+         "clickToReopen":"Click to open new conversation",
+         "privacy":{
+            "consentPt1":"I have read and accept the",
+            "consentPt2":"terms of service",
+            "agree":"I agree"
+         }
+      },
+      {
+         "languageCode":"et",
+         "firstName":"Eesnimi",
+         "lastName":"Perekonnanimi",
+         "email":"E-mail",
+         "submit":"Esita",
+         "enterMessage":"Sisestage sõnum",
+         "anonymousUser":"Jätka anonüümseks",
+         "transcript":{
+            "title":"Saada ärakirja",
+            "description":"Transcript saadetakse pärast vestlus on lõppenud",
+            "email":"E-mail",
+            "cancel":"tühistama",
+            "confirm":"Kinnita"
+         },
+         "rating":{
+            "title":"Hinda vestlus",
+            "description":"Hinda vestlus agent",
+            "comment":"hinnang kommentaar",
+            "cancel":"tühistama",
+            "confirm":"Kinnita"
+         },
+         "clickToReopen":"Kliki avatud uus vestlus",
+         "privacy":{
+            "consentPt1":"Olen lugenud ja nõustun",
+            "consentPt2":"kasutustingimused",
+            "agree":"ma nõustun"
+         }
+      },
+      {
+         "languageCode":"fi",
+         "firstName":"Etunimi",
+         "lastName":"Sukunimi",
+         "email":"Sähköposti",
+         "submit":"Lähetä",
+         "enterMessage":"kirjoita viestin",
+         "anonymousUser":"Jatka nimettöminä",
+         "transcript":{
+            "title":"Lähetä transkripti",
+            "description":"\"Tekstitallenne lähetetään",
+            "email":" kun keskustelu on viimeistelty\"",
+            "cancel":"Sähköposti",
+            "confirm":"Peruuttaa"
+         },
+         "rating":{
+            "title":"Vahvistaa",
+            "description":"Arvostele keskustelu",
+            "comment":"Asiakkaiden keskustelun agentti",
+            "cancel":"Arvostelu kommentti",
+            "confirm":"Peruuttaa"
+         },
+         "clickToReopen":"Klikkaa auki uuteen keskusteluun",
+         "privacy":{
+            "consentPt1":"Vahvistaa",
+            "consentPt2":"Olen lukenut ja hyväksyn",
+            "agree":"käyttöehdot"
+         }
+      },
+      {
+         "languageCode":"fr",
+         "firstName":"Prénom",
+         "lastName":"Nom de famille",
+         "email":"Email",
+         "submit":"Soumettre",
+         "enterMessage":"Entrez un message",
+         "anonymousUser":"Continuer comme anonyme",
+         "transcript":{
+            "title":"Envoyer transcription",
+            "description":"Transcript sera envoyé après la conversation est terminée",
+            "email":"Email",
+            "cancel":"Annuler",
+            "confirm":"Confirmer"
+         },
+         "rating":{
+            "title":"la conversation taux",
+            "description":"Noter la conversation avec l'agent",
+            "comment":"commentaire Note",
+            "cancel":"Annuler",
+            "confirm":"Confirmer"
+         },
+         "clickToReopen":"Cliquez pour une nouvelle conversation ouverte",
+         "privacy":{
+            "consentPt1":"J'ai lu et accepte le",
+            "consentPt2":"conditions d'utilisation",
+            "agree":"je suis d'accord"
+         }
+      },
+      {
+         "languageCode":"de",
+         "firstName":"Vorname",
+         "lastName":"Nachname",
+         "email":"Email",
+         "submit":"einreichen",
+         "enterMessage":"Geben Sie Nachricht",
+         "anonymousUser":"Weiter als anonym",
+         "transcript":{
+            "title":"Weiter als anonym",
+            "description":"Senden Transkript",
+            "email":"\"Transcript wird gesendet",
+            "cancel":" nachdem das Gespräch beendet ist\"",
+            "confirm":"Email"
+         },
+         "rating":{
+            "title":"Stornieren",
+            "description":"Bestätigen",
+            "comment":"bewerten Gespräch",
+            "cancel":"Bewerten Sie das Gespräch mit dem Agenten",
+            "confirm":"Bewertung Kommentar"
+         },
+         "clickToReopen":"Weiter als anonym",
+         "privacy":{
+            "consentPt1":"Stornieren",
+            "consentPt2":"Bestätigen",
+            "agree":"Ich habe gelesen und akzeptiere die"
+         }
+      },
+      {
+         "languageCode":"el",
+         "firstName":"Ονομα",
+         "lastName":"Επίθετο",
+         "email":"ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+         "submit":"υποβάλλουν",
+         "enterMessage":"Πληκτρολογήστε το μήνυμα",
+         "anonymousUser":"Συνέχεια ως ανώνυμος",
+         "transcript":{
+            "title":"Αποστολή μεταγραφή",
+            "description":"Αντίγραφο θα αποσταλεί μετά την συνομιλία είναι έτοιμο",
+            "email":"ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+            "cancel":"Ματαίωση",
+            "confirm":"Επιβεβαιώνω"
+         },
+         "rating":{
+            "title":"Βαθμολογήστε συνομιλία",
+            "description":"Βαθμολογήστε τη συνομιλία με τον παράγοντα",
+            "comment":"σχόλιο",
+            "cancel":"Ματαίωση",
+            "confirm":"Επιβεβαιώνω"
+         },
+         "clickToReopen":"Κάντε κλικ για να ανοίξει νέες συζητήσεις",
+         "privacy":{
+            "consentPt1":"Έχω διαβάσει και αποδέχομαι την",
+            "consentPt2":"Όροι χρήσης",
+            "agree":"συμφωνώ"
+         }
+      },
+      {
+         "languageCode":"he",
+         "firstName":"שם פרטי",
+         "lastName":"שם משפחה",
+         "email":"E-mail",
+         "submit":"שלח",
+         "enterMessage":"זן הודעה",
+         "anonymousUser":"המשך כאנונימיים",
+         "transcript":{
+            "title":"תמליל שלח",
+            "description":"תמליל יישלח לאחר השיחה הוא סיים",
+            "email":"E-mail",
+            "cancel":"לבטל",
+            "confirm":"אישור"
+         },
+         "rating":{
+            "title":"בשיחת שהערים",
+            "description":"דרג את השיחה עם הסוכן",
+            "comment":"תגובת דירוג",
+            "cancel":"לבטל",
+            "confirm":"אישור"
+         },
+         "clickToReopen":"לחץ כדי שיחה חדשה פתוחה",
+         "privacy":{
+            "consentPt1":"קראתי ואני מקבל את",
+            "consentPt2":"תנאי השירות",
+            "agree":"אני מסכים"
+         }
+      },
+      {
+         "languageCode":"hu",
+         "firstName":"Keresztnév",
+         "lastName":"Vezetéknév",
+         "email":"Email",
+         "submit":"Beküldés",
+         "enterMessage":"üzenet megadása",
+         "anonymousUser":"Folytatás névtelen",
+         "transcript":{
+            "title":"Küldés átirat",
+            "description":"Transcript után küldünk a beszélgetés kész",
+            "email":"Email",
+            "cancel":"Megszünteti",
+            "confirm":"megerősít"
+         },
+         "rating":{
+            "title":"Rate beszélgetés",
+            "description":"Értékeld a beszélgetést a szerrel",
+            "comment":"Értékelés comment",
+            "cancel":"Megszünteti",
+            "confirm":"megerősít"
+         },
+         "clickToReopen":"Kattintson a nyitott új beszélgetés",
+         "privacy":{
+            "consentPt1":"Elolvastam és elfogadom a",
+            "consentPt2":"szolgáltatás feltételei",
+            "agree":"Egyetértek"
+         }
+      },
+      {
+         "languageCode":"is",
+         "firstName":"Fyrsta nafn",
+         "lastName":"Eftirnafn",
+         "email":"E-mail",
+         "submit":"Senda inn",
+         "enterMessage":"sláðu inn skilaboð",
+         "anonymousUser":"Halda áfram sem nafnlaus",
+         "transcript":{
+            "title":"Senda afrit",
+            "description":"Afrit verður sent á eftir samtalið er lokið",
+            "email":"E-mail",
+            "cancel":"Hætta við",
+            "confirm":"Staðfesta"
+         },
+         "rating":{
+            "title":"Gefa samtal",
+            "description":"Gefa samtal við umboðsmann",
+            "comment":"einkunn athugasemd",
+            "cancel":"Hætta við",
+            "confirm":"Staðfesta"
+         },
+         "clickToReopen":"Smelltu til að opna nýtt samtal",
+         "privacy":{
+            "consentPt1":"Ég hef lesið og samþykki á",
+            "consentPt2":"Skilmálar þjónustu",
+            "agree":"ég er sammála"
+         }
+      },
+      {
+         "languageCode":"ga",
+         "firstName":"Ainm",
+         "lastName":"Sloinne",
+         "email":"Ríomhphost",
+         "submit":"Cuir",
+         "enterMessage":"Iontráil teachtaireacht",
+         "anonymousUser":"Leanúint ar aghaidh mar gan ainm",
+         "transcript":{
+            "title":"athscríbhinn Seol",
+            "description":"Beidh Athscríbhinn a sheoladh tar éis an comhrá críochnaithe",
+            "email":"Ríomhphost",
+            "cancel":"Cealaigh",
+            "confirm":"Deimhnigh"
+         },
+         "rating":{
+            "title":"ráta comhrá",
+            "description":"Mheas an comhrá leis an ngníomhaire",
+            "comment":"Rátáil comment",
+            "cancel":"Cealaigh",
+            "confirm":"Deimhnigh"
+         },
+         "clickToReopen":"Cliceáil chun comhrá nua a oscailt",
+         "privacy":{
+            "consentPt1":"Léigh mé agus go nglacaim leis",
+            "consentPt2":"Tearmaí Seirbhís",
+            "agree":"Aontaím"
+         }
+      },
+      {
+         "languageCode":"it",
+         "firstName":"Nome di battesimo",
+         "lastName":"Cognome",
+         "email":"E-mail",
+         "submit":"Invia",
+         "enterMessage":"Inserisci messaggio",
+         "anonymousUser":"Continuare come anonimo",
+         "transcript":{
+            "title":"Invia trascrizione",
+            "description":"Trascrizione verrà inviata dopo la conversazione è finita",
+            "email":"E-mail",
+            "cancel":"Annulla",
+            "confirm":"Confermare"
+         },
+         "rating":{
+            "title":"tasso di conversazione",
+            "description":"Vota la conversazione con l'agente",
+            "comment":"Valutazione commento",
+            "cancel":"Annulla",
+            "confirm":"Confermare"
+         },
+         "clickToReopen":"Clicca per aprire nuova conversazione",
+         "privacy":{
+            "consentPt1":"Ho letto e accetto i",
+            "consentPt2":"Termini di Servizio",
+            "agree":"sono d'accordo"
+         }
+      },
+      {
+         "languageCode":"ja",
+         "firstName":"ファーストネーム",
+         "lastName":"苗字",
+         "email":"Eメール",
+         "submit":"提出します",
+         "enterMessage":"メッセージを入力します。",
+         "anonymousUser":"匿名として続行",
+         "transcript":{
+            "title":"送信転写産物",
+            "description":"会話が終了した後、トランスクリプトが送信されます",
+            "email":"Eメール",
+            "cancel":"キャンセル",
+            "confirm":"確認"
+         },
+         "rating":{
+            "title":"レート会話",
+            "description":"エージェントとの会話を評価します",
+            "comment":"評価コメント",
+            "cancel":"キャンセル",
+            "confirm":"確認"
+         },
+         "clickToReopen":"オープンの新しい会話にクリックしてください",
+         "privacy":{
+            "consentPt1":"私は読み、同意します",
+            "consentPt2":"利用規約",
+            "agree":"同意する"
+         }
+      },
+      {
+         "languageCode":"kk",
+         "firstName":"Аты",
+         "lastName":"Тек",
+         "email":"Электрондық пошта",
+         "submit":"Жіберу",
+         "enterMessage":"хабарды енгізіңіз",
+         "anonymousUser":"Жасырын ретінде Жалғастыру",
+         "transcript":{
+            "title":"жіберу транскрипт",
+            "description":"әңгіме аяқталған соң транскрипт жіберіледі",
+            "email":"Электрондық пошта",
+            "cancel":"күшін жою",
+            "confirm":"растау"
+         },
+         "rating":{
+            "title":"Rate әңгіме",
+            "description":"агентпен сөйлесті бағалаңыз",
+            "comment":"рейтингі қатынасқа",
+            "cancel":"күшін жою",
+            "confirm":"растау"
+         },
+         "clickToReopen":"\"ашық",
+         "privacy":{
+            "consentPt1":"растау",
+            "consentPt2":"Мен оқып және қабылдауға бар",
+            "agree":"Қызмет көрсету шарттары"
+         }
+      },
+      {
+         "languageCode":"ko",
+         "firstName":"이름",
+         "lastName":"성",
+         "email":"이메일",
+         "submit":"제출",
+         "enterMessage":"메시지를 입력",
+         "anonymousUser":"익명 계속",
+         "transcript":{
+            "title":"보내기 성적 증명서",
+            "description":"대화가 끝난 후 성적표가 발송됩니다",
+            "email":"이메일",
+            "cancel":"취소",
+            "confirm":"확인"
+         },
+         "rating":{
+            "title":"속도의 대화",
+            "description":"에이전트와 대화를 평가",
+            "comment":"평가 의견",
+            "cancel":"취소",
+            "confirm":"확인"
+         },
+         "clickToReopen":"열려있는 새 대화에 클릭",
+         "privacy":{
+            "consentPt1":"나는 읽고 동의합니다",
+            "consentPt2":"서비스 약관",
+            "agree":"동의한다"
+         }
+      },
+      {
+         "languageCode":"lv",
+         "firstName":"Vārds",
+         "lastName":"Uzvārds",
+         "email":"E-pasts",
+         "submit":"Iesniegt",
+         "enterMessage":"Ievadiet ziņu",
+         "anonymousUser":"Turpiniet kā anonīms",
+         "transcript":{
+            "title":"Sūtīt atšifrējums",
+            "description":"\"Atšifrējums tiks nosūtīts pēc tam",
+            "email":" kad saruna ir pabeigta\"",
+            "cancel":"E-pasts",
+            "confirm":"atcelt"
+         },
+         "rating":{
+            "title":"Apstiprināt",
+            "description":"Novērtēt saruna",
+            "comment":"Novērtēt šo sarunu ar aģentu",
+            "cancel":"Reitings komentārs",
+            "confirm":"atcelt"
+         },
+         "clickToReopen":"\"Uzklikšķiniet",
+         "privacy":{
+            "consentPt1":"atcelt",
+            "consentPt2":"Apstiprināt",
+            "agree":"Es esmu izlasījis un pieņemt"
+         }
+      },
+      {
+         "languageCode":"lt",
+         "firstName":"Pirmas vardas",
+         "lastName":"Pavardė",
+         "email":"Elektroninis paštas",
+         "submit":"Pateikti",
+         "enterMessage":"Įveskite pranešimą",
+         "anonymousUser":"Toliau kaip anoniminė",
+         "transcript":{
+            "title":"Siųsti stenograma",
+            "description":"\"Stenograma bus išsiųstas",
+            "email":" kai pokalbis yra baigtas\"",
+            "cancel":"Elektroninis paštas",
+            "confirm":"atšaukti"
+         },
+         "rating":{
+            "title":"Patvirtinti",
+            "description":"norma pokalbis",
+            "comment":"Įvertinti pokalbį su agentu",
+            "cancel":"Vertinimas komentaras",
+            "confirm":"atšaukti"
+         },
+         "clickToReopen":"\"Spustelėkite",
+         "privacy":{
+            "consentPt1":"atšaukti",
+            "consentPt2":"Patvirtinti",
+            "agree":"Aš perskaičiau ir sutinku su"
+         }
+      },
+      {
+         "languageCode":"mk",
+         "firstName":"Име",
+         "lastName":"Презиме",
+         "email":"Е-пошта",
+         "submit":"достават",
+         "enterMessage":"внесете ја пораката",
+         "anonymousUser":"Продолжи како анонимни",
+         "transcript":{
+            "title":"Испратете препис",
+            "description":"Препис ќе бидат испратени по разговорот е завршена",
+            "email":"Е-пошта",
+            "cancel":"Откажи",
+            "confirm":"Потврди"
+         },
+         "rating":{
+            "title":"стапка на разговор",
+            "description":"Стапка на разговор со агентот",
+            "comment":"Оценка коментар",
+            "cancel":"Откажи",
+            "confirm":"Потврди"
+         },
+         "clickToReopen":"Кликнете за да отворите нов разговор",
+         "privacy":{
+            "consentPt1":"Ги прочитав и ги прифаќам",
+            "consentPt2":"Услови за Користење",
+            "agree":"се согласувам"
+         }
+      },
+      {
+         "languageCode":"no",
+         "firstName":"Fornavn",
+         "lastName":"Etternavn",
+         "email":"E-post",
+         "submit":"Sende inn",
+         "enterMessage":"skriv inn melding",
+         "anonymousUser":"Fortsett så anonym",
+         "transcript":{
+            "title":"Send transkripsjon",
+            "description":"Karakterutskrift vil bli sendt etter at samtalen er ferdig",
+            "email":"E-post",
+            "cancel":"Avbryt",
+            "confirm":"Bekrefte"
+         },
+         "rating":{
+            "title":"sats samtale",
+            "description":"Ranger samtale med agent",
+            "comment":"Rating kommentar",
+            "cancel":"Avbryt",
+            "confirm":"Bekrefte"
+         },
+         "clickToReopen":"Klikk for å åpne ny samtale",
+         "privacy":{
+            "consentPt1":"Jeg har lest og aksepterer",
+            "consentPt2":"Vilkår for bruk",
+            "agree":"jeg er enig"
+         }
+      },
+      {
+         "languageCode":"pl",
+         "firstName":"Imię",
+         "lastName":"Nazwisko",
+         "email":"E-mail",
+         "submit":"Zatwierdź",
+         "enterMessage":"Wpisz wiadomość",
+         "anonymousUser":"Kontynuuj jako anonimowy",
+         "transcript":{
+            "title":"wyślij transkrypt",
+            "description":"Transkrypcja zostanie wysłana po rozmowa jest gotowy",
+            "email":"E-mail",
+            "cancel":"anulować",
+            "confirm":"Potwierdzać"
+         },
+         "rating":{
+            "title":"Oceń rozmowa",
+            "description":"Oceń rozmowę z agentem",
+            "comment":"Ocena komentarz",
+            "cancel":"anulować",
+            "confirm":"Potwierdzać"
+         },
+         "clickToReopen":"\"Kliknij",
+         "privacy":{
+            "consentPt1":"Potwierdzać",
+            "consentPt2":"przeczytałem i akceptuję",
+            "agree":"warunki usługi"
+         }
+      },
+      {
+         "languageCode":"pt",
+         "firstName":"Primeiro nome",
+         "lastName":"Último nome",
+         "email":"O email",
+         "submit":"Enviar",
+         "enterMessage":"Digite mensagem",
+         "anonymousUser":"Continuar como anônimo",
+         "transcript":{
+            "title":"Enviar transcrição",
+            "description":"Transcrição será enviado após a conversa está terminada",
+            "email":"O email",
+            "cancel":"Cancelar",
+            "confirm":"confirme"
+         },
+         "rating":{
+            "title":"taxa de conversa",
+            "description":"Classifique a conversa com o agente",
+            "comment":"comentário classificação",
+            "cancel":"Cancelar",
+            "confirm":"confirme"
+         },
+         "clickToReopen":"Clique para nova conversa aberta",
+         "privacy":{
+            "consentPt1":"Eu li e aceito o",
+            "consentPt2":"termos de serviço",
+            "agree":"concordo"
+         }
+      },
+      {
+         "languageCode":"pa",
+         "firstName":"ਪਹਿਲਾ ਨਾਂ",
+         "lastName":"ਆਖਰੀ ਨਾਂਮ",
+         "email":"ਈ - ਮੇਲ",
+         "submit":"ਜਮ੍ਹਾਂ ਕਰੋ",
+         "enterMessage":"ਸੁਨੇਹੇ ਨੂੰ ਦਿਓ",
+         "anonymousUser":"ਦੇ ਤੌਰ ਤੇ ਅਗਿਆਤ ਜਾਰੀ ਰੱਖੋ",
+         "transcript":{
+            "title":"ਭੇਜੋ ਪ੍ਰਤੀਲਿਪੀ",
+            "description":"ਬਾਅਦ ਗੱਲਬਾਤ ਮੁਕੰਮਲ ਹੈ ਪਰਤ ਭੇਜਿਆ ਜਾਵੇਗਾ",
+            "email":"ਈ - ਮੇਲ",
+            "cancel":"ਰੱਦ ਕਰੋ",
+            "confirm":"ਪੁਸ਼ਟੀ"
+         },
+         "rating":{
+            "title":"ਦਰ ਦੀ ਗੱਲਬਾਤ",
+            "description":"ਏਜੰਟ ਨਾਲ ਗੱਲਬਾਤ ਦਰਜਾ",
+            "comment":"ਰੇਟਿੰਗ ਟਿੱਪਣੀ",
+            "cancel":"ਰੱਦ ਕਰੋ",
+            "confirm":"ਪੁਸ਼ਟੀ"
+         },
+         "clickToReopen":"ਖੁੱਲ੍ਹੇ ਨਵ ਗੱਲਬਾਤ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ",
+         "privacy":{
+            "consentPt1":"ਮੈਨੂੰ ਪੜ੍ਹ ਲਿਆ ਹੈ ਅਤੇ ਸਵੀਕਾਰ ਕੀਤਾ ਹੈ",
+            "consentPt2":"ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ",
+            "agree":"ਮੈਂ ਸਹਿਮਤ ਹਾਂ l"
+         }
+      },
+      {
+         "languageCode":"ro",
+         "firstName":"Nume",
+         "lastName":"Numele de familie",
+         "email":"E-mail",
+         "submit":"Trimite",
+         "enterMessage":"introduceţi mesajul",
+         "anonymousUser":"Continuare anonime",
+         "transcript":{
+            "title":"Trimite transcrierea",
+            "description":"Transcrierea va fi trimis după conversație este terminat",
+            "email":"E-mail",
+            "cancel":"Anulare",
+            "confirm":"A confirma"
+         },
+         "rating":{
+            "title":"Rata de conversație",
+            "description":"Evaluează conversația cu agentul",
+            "comment":"Rating-ul comentariu",
+            "cancel":"Anulare",
+            "confirm":"A confirma"
+         },
+         "clickToReopen":"Click aici pentru a conversație nou deschisă",
+         "privacy":{
+            "consentPt1":"Am citit și accept",
+            "consentPt2":"Termenii serviciului",
+            "agree":"sunt de acord"
+         }
+      },
+      {
+         "languageCode":"ru",
+         "firstName":"Имя",
+         "lastName":"Фамилия",
+         "email":"Эл. почта",
+         "submit":"Отправить",
+         "enterMessage":"Введите сообщение",
+         "anonymousUser":"Продолжить анонимным",
+         "transcript":{
+            "title":"Отправить транскрипт",
+            "description":"\"Стенограмма будет отправлен после того",
+            "email":" как разговор законченный\"",
+            "cancel":"Эл. почта",
+            "confirm":"Отмена"
+         },
+         "rating":{
+            "title":"Подтверждение",
+            "description":"Оценить разговор",
+            "comment":"Оценить разговор с агентом",
+            "cancel":"Рейтинг комментария",
+            "confirm":"Отмена"
+         },
+         "clickToReopen":"\"Нажмите",
+         "privacy":{
+            "consentPt1":"Отмена",
+            "consentPt2":"Подтверждение",
+            "agree":"Я прочитал и принять"
+         }
+      },
+      {
+         "languageCode":"sr",
+         "firstName":"Име",
+         "lastName":"Презиме",
+         "email":"Е-пошта",
+         "submit":"прихвати",
+         "enterMessage":"Унесите поруку",
+         "anonymousUser":"Наставите као анонимни",
+         "transcript":{
+            "title":"pošalji транскрипт",
+            "description":"Транскрипт ће бити послата након разговора је завршена",
+            "email":"Е-пошта",
+            "cancel":"\"Поништити",
+            "confirm":" отказати\""
+         },
+         "rating":{
+            "title":"Потврди",
+            "description":"stopa разговор",
+            "comment":"Оцените разговор са агентом",
+            "cancel":"Оцењивање коментар",
+            "confirm":"\"Поништити"
+         },
+         "clickToReopen":"Кликните за отварање нових разговора",
+         "privacy":{
+            "consentPt1":" отказати\"",
+            "consentPt2":"Потврди",
+            "agree":"Прочитао сам и прихватим"
+         }
+      },
+      {
+         "languageCode":"sk",
+         "firstName":"Krstné meno",
+         "lastName":"Priezvisko",
+         "email":"E-mail",
+         "submit":"Predložiť",
+         "enterMessage":"Napíšte správu",
+         "anonymousUser":"Pokračovať v anonymite",
+         "transcript":{
+            "title":"send prepis",
+            "description":"Prepis bude zaslaná po konverzácie je hotová",
+            "email":"E-mail",
+            "cancel":"Zrušiť",
+            "confirm":"potvrdiť"
+         },
+         "rating":{
+            "title":"miera konverzácie",
+            "description":"Hodnotiť rozhovor s agentom",
+            "comment":"Rating komentár",
+            "cancel":"Zrušiť",
+            "confirm":"potvrdiť"
+         },
+         "clickToReopen":"Kliknutím otvoríte novú diskusiu",
+         "privacy":{
+            "consentPt1":"Prečítal som a prijať",
+            "consentPt2":"podmienky služby",
+            "agree":"Súhlasím"
+         }
+      },
+      {
+         "languageCode":"sl",
+         "firstName":"Ime",
+         "lastName":"Priimek",
+         "email":"E-naslov",
+         "submit":"Potrdi",
+         "enterMessage":"Vnesite sporočilo",
+         "anonymousUser":"Nadaljujte anonimno",
+         "transcript":{
+            "title":"Pošlji prepis",
+            "description":"\"Prepis se pošlje",
+            "email":" ko se pogovor končan\"",
+            "cancel":"E-naslov",
+            "confirm":"Preklic"
+         },
+         "rating":{
+            "title":"Potrdite",
+            "description":"Oceni pogovor",
+            "comment":"Oceni pogovor s sredstvom",
+            "cancel":"Ocena komentar",
+            "confirm":"Preklic"
+         },
+         "clickToReopen":"Kliknite na odprtem novem pogovoru",
+         "privacy":{
+            "consentPt1":"Potrdite",
+            "consentPt2":"Prebral sem in sprejemam",
+            "agree":"Pogoji storitve"
+         }
+      },
+      {
+         "languageCode":"es",
+         "firstName":"Nombre",
+         "lastName":"Apellido",
+         "email":"Email",
+         "submit":"Enviar",
+         "enterMessage":"Escribe tu mensaje",
+         "anonymousUser":"Continuar como anónimo",
+         "transcript":{
+            "title":"Enviar transcripción",
+            "description":"Transcripción será enviado después de la conversación ha terminado",
+            "email":"Email",
+            "cancel":"Cancelar",
+            "confirm":"Confirmar"
+         },
+         "rating":{
+            "title":"conversación tasa",
+            "description":"Valorar la conversación con el agente",
+            "comment":"comentario Clasificación",
+            "cancel":"Cancelar",
+            "confirm":"Confirmar"
+         },
+         "clickToReopen":"Haga clic aquí para nueva conversación abierta",
+         "privacy":{
+            "consentPt1":"He leído y acepto la",
+            "consentPt2":"términos de servicio",
+            "agree":"estoy de acuerdo"
+         }
+      },
+      {
+         "languageCode":"sv",
+         "firstName":"Förnamn",
+         "lastName":"Efternamn",
+         "email":"E-post",
+         "submit":"Fortsätt",
+         "enterMessage":"Ange meddelande",
+         "anonymousUser":"Fortsätt så anonym",
+         "transcript":{
+            "title":"Skicka avskrift",
+            "description":"Utskrift kommer att skickas efter samtalet är avslutat",
+            "email":"E-post",
+            "cancel":"Avbryt",
+            "confirm":"Bekräfta"
+         },
+         "rating":{
+            "title":"Rate konversation",
+            "description":"Betyg samtalet med agenten",
+            "comment":"rating kommentar",
+            "cancel":"Avbryt",
+            "confirm":"Bekräfta"
+         },
+         "clickToReopen":"Klicka för att öppna nya samtal",
+         "privacy":{
+            "consentPt1":"Jag har läst och accepterar",
+            "consentPt2":"användarvillkor",
+            "agree":"jag håller med"
+         }
+      },
+      {
+         "languageCode":"uk",
+         "firstName":"Ім'я",
+         "lastName":"Прізвище",
+         "email":"Електронна пошта",
+         "submit":"уявити",
+         "enterMessage":"Введіть повідомлення",
+         "anonymousUser":"продовжити анонімним",
+         "transcript":{
+            "title":"Надіслати транскрипт",
+            "description":"\"Стенограма буде відправлений після того",
+            "email":" як розмова закінчений\"",
+            "cancel":"Електронна пошта",
+            "confirm":"скасувати"
+         },
+         "rating":{
+            "title":"підтвердження",
+            "description":"оцінити розмову",
+            "comment":"Оцінити розмову з агентом",
+            "cancel":"Рейтинг коментаря",
+            "confirm":"скасувати"
+         },
+         "clickToReopen":"\"Натисніть",
+         "privacy":{
+            "consentPt1":"скасувати",
+            "consentPt2":"підтвердження",
+            "agree":"Я прочитав і прийняти"
+         }
+      },
+      {
+         "languageCode":"th",
+         "firstName":"ชื่อจริง",
+         "lastName":"นามสกุล",
+         "email":"E-mail",
+         "submit":"เสนอ",
+         "enterMessage":"ป้อนข้อความ",
+         "anonymousUser":"ยังคงเป็นที่ไม่ระบุชื่อ",
+         "transcript":{
+            "title":"ส่งหลักฐานการศึกษา",
+            "description":"Transcript จะถูกส่งไปหลังจากการสนทนาเสร็จสิ้น",
+            "email":"E-mail",
+            "cancel":"ยกเลิก",
+            "confirm":"ยืนยัน"
+         },
+         "rating":{
+            "title":"สนทนาอัตรา",
+            "description":"ประเมินการสนทนากับตัวแทน",
+            "comment":"ความคิดเห็นการจัดอันดับ",
+            "cancel":"ยกเลิก",
+            "confirm":"ยืนยัน"
+         },
+         "clickToReopen":"คลิ๊กเพื่อเปิดการสนทนาใหม่",
+         "privacy":{
+            "consentPt1":"ฉันได้อ่านและยอมรับ",
+            "consentPt2":"เงื่อนไขการให้บริการ",
+            "agree":"ฉันเห็นด้วย"
+         }
+      },
+      {
+         "languageCode":"tr",
+         "firstName":"İsim",
+         "lastName":"Soyadı",
+         "email":"E-mail",
+         "submit":"Gönder",
+         "enterMessage":"mesajını girin",
+         "anonymousUser":"Anonim Devam",
+         "transcript":{
+            "title":"Gönder transkript",
+            "description":"konuşma bitmiş sonra Transkript gönderilecektir",
+            "email":"E-mail",
+            "cancel":"İptal etmek",
+            "confirm":"Onaylamak"
+         },
+         "rating":{
+            "title":"Hızı konuşma",
+            "description":"ajanla görüşme değerlendir",
+            "comment":"Puanlama comment",
+            "cancel":"İptal etmek",
+            "confirm":"Onaylamak"
+         },
+         "clickToReopen":"açık yeni bir sohbete tıklayın",
+         "privacy":{
+            "consentPt1":"Okudum ve kabul ediyorum",
+            "consentPt2":"kullanım Şartları",
+            "agree":"katılıyorum"
+         }
+      },
+      {
+         "languageCode":"vi",
+         "firstName":"Tên đầu tiên",
+         "lastName":"tên họ",
+         "email":"E-mail",
+         "submit":"Gửi đi",
+         "enterMessage":"Nhập tin nhắn",
+         "anonymousUser":"Tiếp tục như vô danh",
+         "transcript":{
+            "title":"Gửi bảng điểm",
+            "description":"Transcript sẽ được gửi sau khi cuộc nói chuyện là xong",
+            "email":"E-mail",
+            "cancel":"hủy bỏ",
+            "confirm":"Xác nhận"
+         },
+         "rating":{
+            "title":"chuyện lãi suất",
+            "description":"Xếp hạng các cuộc nói chuyện với các đại lý",
+            "comment":"bình luận Đánh giá",
+            "cancel":"hủy bỏ",
+            "confirm":"Xác nhận"
+         },
+         "clickToReopen":"Nhấn vào đây để trò chuyện mới mở",
+         "privacy":{
+            "consentPt1":"tôi đã đọc và đồng ý",
+            "consentPt2":"điều khoản dịch vụ",
+            "agree":"tôi đồng ý"
+         }
+      },
+      {
+         "languageCode":"yi",
+         "firstName":"ערשטע נאמען",
+         "lastName":"לעצטע נאמען",
+         "email":"E- פּאָסט",
+         "submit":"פאָרלייגן",
+         "enterMessage":"אַרייַן אָנזאָג",
+         "anonymousUser":"פאָרזעצן ווי אַנאַנאַמאַס",
+         "transcript":{
+            "title":"שיקן טראַנסקריפּט",
+            "description":"טראַנסקריפּט וועט ווערן געשיקט נאָך דעם שמועס איז פאַרטיק",
+            "email":"E- פּאָסט",
+            "cancel":"באָטל מאַכן",
+            "confirm":"באַשטעטיקן"
+         },
+         "rating":{
+            "title":"קורס שמועס",
+            "description":"קורס דעם שמועס מיט דער אַגענט",
+            "comment":"שאַץ צו באַמערקן",
+            "cancel":"באָטל מאַכן",
+            "confirm":"באַשטעטיקן"
+         },
+         "clickToReopen":"גיט צו עפענען נייַ שמועס",
+         "privacy":{
+            "consentPt1":"איך האָבן לייענען און אָננעמען די",
+            "consentPt2":"טערמינען פון דינסט",
+            "agree":"איך בין מסכים"
+         }
+      }
+   ]
 }
